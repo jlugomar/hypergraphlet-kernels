@@ -17,9 +17,9 @@ Please direct all comments and bug reports of this version to jlugomar@andrew.cm
 A detailed description of each method and discussion of parameters can be found in:
 
 Lugo-Martinez et al. "Classification in biological networks with hypergraphlet kernels", 
-2017, arXiv:1703.04823.
+2020, Bioinformatics.
 
-Please cite the arXiv paper if you use or modify this software.
+Please cite the Bioinformatics paper if you use or modify this software.
 
 ------------------------------------------------------------------------
 COMPILATION
